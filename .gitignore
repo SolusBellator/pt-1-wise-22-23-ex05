@@ -1,0 +1,9 @@
+*.o
+/.vscode/
+/.vscode
+caesar
+dec2rom
+*.zip
+*.db
+grading_tasks
+teststack
